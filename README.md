@@ -166,6 +166,7 @@ Basta selecionar a peça que será conectada, a posição dela que será conecta
 Cuidado ao conectar grupos de peças: o primeiro se moverá para a posição de conexão do segundo.
 
 Cilindros azuis representam posições internas das peças, conectam peças uma dentro da outra.
+
 Os cubos azuis representam posições externas das peças, colocam peças lado a lado. Podem também representar posições de peças que só tem uma única posição. Ex: pneus só tem uma posição de conexão com rodas.
 
 ### Stability
@@ -188,3 +189,13 @@ Para encontrar peças que não estão listadas aqui, pesquise pelo nome de peça
 ![Lista de peças](/imagens/pieces_3.png)
 ![Lista de peças](/imagens/pieces_4.png)
 ![Lista de peças](/imagens/pieces_5.png)
+
+
+***
+
+```
+TODO:
+- Shortcuts
+- Steps
+- Instruções
+```
