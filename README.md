@@ -77,7 +77,9 @@ Além dos controles básicos, as teclas `A`,`W`,`S`,`D`, também podem ser usada
 ### Views
 
 ![Camera](/imagens/views.png)
+
 Clicando no ícone da câmera, no canto superior esquerdo da tela de contrução, é possível escolher diferentes vistas do projeto, para vê-lo em diferentes perspectivas: lateral, frontal, de baixo, de cima, ortogonal.
+
 ![Views Bar](/imagens/views_bar.png)
 
 ### Selection tool
@@ -107,6 +109,7 @@ Para mover uma peça ou um grupo de peças selecionado, basta arrastar com o mou
 Outra alternativa é utilizar as teclas `A`, `W`, `S`, `D`, que movem o grupo selecionado.
 Para girar o grupo selecionado, basta utilizar as setas no teclado. Cada clique será um giro de 90 graus naquela direção.
 `Shift` + Setas giram da mesma forma, mas em giros de 45 graus.
+
 Também é possível mover as peças pelo cursor, clicando na peça e depois em um dos ícones que aparecer próximo a ela. Aí é só arrastar.
 
 ![Movimentação](/imagens/mov.png)
@@ -116,6 +119,7 @@ Também é possível mover as peças pelo cursor, clicando na peça e depois em 
 ### Hinge tool
 É a segunda ferramenta da barra de ferramentas, e também pode ser acessada pela tecla `H`.
 Selecione uma peça ou um conjunto de peças para girá-las em qualquer direção arrastando os cursores que aparecerem.
+
 Se a peça ou a seleção de peças estiver conectada a outra peça ou outro conjunto de peças, o giro da seleção terá como centro o ponto de conexão.
 
 ![Hinge](/imagens/hinge.png)
@@ -143,7 +147,9 @@ Também pode ser ativada/desativada por `Ctrl` + `Alt` + `C`.
 
 ### Snap, Grid
 As ferramentas `Snap` e `Grid` controlam como as peças vão se comportar no modelo virtual, a partir da interação com outras peças.
+
 Com `Snap` ativado, as peças irão se encaixar mais facilmente, enquanto que com ele desativado elas ficam mais livres, com posições menos truncadas. (Para mais versatilidade para conectar peças, fica a dica de utilizar a ferramenta `Connect`, descrita a seguir).
+
 Já o `Grid` controla a disposição geral das peças. Quanto menores os detalhes da grade, mais posições intermediárias as peças poderão ocupar.
 
 ![Grid](/imagens/grid.png)
