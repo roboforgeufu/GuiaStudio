@@ -4,6 +4,7 @@ Instruções e dicas para utilização do software `Studio 2.0`, da BrickLink.
 ~RoboForge 2020
 
 ***
+
 # Index
 * [Visão Geral](https://github.com/roboforgeufu/GuiaStudio#vis%C3%A3o-geral)
 * [Primeiro Contato](https://github.com/roboforgeufu/GuiaStudio#primeiro-contato)
@@ -53,7 +54,7 @@ Basta digitar o que quiser pesquisar na caixa de pesquisa sobre o catálogo de p
 * Mudança de cor de peças:
 Basta selecionar a(s) peça(s) que o usuário queira escolher a cor e então selecionar uma cor na janela "Color Pallete", que aparece por padrão na parte direita da tela;
 * Hinge tool:
-Ferramenta para articulações e engrenagens, abordada aqui.(TODO)
+Ferramenta para articulações e engrenagens, abordada aqui.
 
 Essa já é uma boa introdução para alguém que caiu de paraquedas no Studio, mas para uma boa utilização e contrução de modelos mais complexos, outras informações também são muito importantes.
 
